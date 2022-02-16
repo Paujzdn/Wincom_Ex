@@ -1,0 +1,4 @@
+1) If the code had milions of keywords the first way I would try to solve it is either with a Trie or a binary search, A hashtable is not suitable for such data length.
+A data base with a binary search application would be my first option
+
+2) For the option of being able to return a word with the input in the middle, calling the contains() method would be a easy way to solve it
